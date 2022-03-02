@@ -1,8 +1,6 @@
 ### Hi 👋
 
-- 🔭 I’m currently working on DevOps
 - 🌱 I’m currently learning AWS | Azure | GCP
-- 👯 I’m looking to collaborate on Cloud Native Computing Foundation
 - 📫 How to reach me: rootgtx@gmail.com
 
 <div align="center">
