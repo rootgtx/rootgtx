@@ -1,5 +1,7 @@
 ### Hi 👋
 
+![sre](https://i.imgur.com/ykaNfky.jpg)
+
 - 🌱 I’m currently learning AWS | Azure | GCP
 - 📫 How to reach me: rootgtx@gmail.com
 
